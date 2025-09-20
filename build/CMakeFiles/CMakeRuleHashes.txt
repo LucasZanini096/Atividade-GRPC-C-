@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+fec184d9d98338a589e8cd05a3d5e7da notas.pb.cc

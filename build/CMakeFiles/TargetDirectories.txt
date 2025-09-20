@@ -1,0 +1,4 @@
+/workspaces/Atividade-GRPC-C-/build/CMakeFiles/servidor_cpp.dir
+/workspaces/Atividade-GRPC-C-/build/CMakeFiles/cliente_cpp.dir
+/workspaces/Atividade-GRPC-C-/build/CMakeFiles/edit_cache.dir
+/workspaces/Atividade-GRPC-C-/build/CMakeFiles/rebuild_cache.dir
